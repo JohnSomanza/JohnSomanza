@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 ### <b>Azure Cloud SOC</b>
-  - [Creating an Azure Cloud SOC + Honeynet](https://github.com/FelixAburto/Cloud-SOC-Honeynet)
+  - [Creating an Azure Cloud SOC + Honeynet](https://github.com/JohnSomanza/Cloud-SOC-Honeynet)
 
 ### <b>Vulnerability Management</b>
   - [Vulnerability Management Lifecycle with Azure](https://github.com/Gutz2NvrGiveUp/Vulnerability-Management-with-Azure/tree/main)
