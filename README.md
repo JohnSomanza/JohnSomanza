@@ -11,12 +11,12 @@
   - [Vulnerability Management Lifecycle with Azure](https://github.com/Gutz2NvrGiveUp/Vulnerability-Management-with-Azure/tree/main)
 
 ### <b>C844 Emerging Technologies in Cybersecurity Lab</b>
-  - [TASK 1: NMAP AND WIRESHARK](https://github.com/John-Somanza/C844-Emerging-Technologies-in-Cybersecurity-Lab.git)
-  - [TASK 2: WLAN AND MOBILE SECURITY PLAN](https://github.com/John-Somanza/C844-Emerging-Technologies-in-Cybersecurity-Lab-Pt.2.git)
+  - [Task 1: NMAP And WIRESHARK](https://github.com/John-Somanza/C844-Emerging-Technologies-in-Cybersecurity-Lab.git)
+  - [Task 2: WLAN And MOBILE SECURITY PLAN](https://github.com/John-Somanza/C844-Emerging-Technologies-in-Cybersecurity-Lab-Pt.2.git)
 
 ### <b>D431 Digital Forensics Lab</b>
-  - [TASK 1: INVESTIGATIVE PLAN OF ACTION](https://github.com/John-Somanza/D431-Digital-Forensics-Lab.git)
-  - [TASK 2: FORENSIC INVESTIGATION](https://github.com/John-Somanza/D431-Digital-Forensics-Lab-Pt.2.git)
+  - [Task 1: Investigative Plan of Action](https://github.com/John-Somanza/D431-Digital-Forensics-Lab.git)
+  - [Task 2: Forensic Investigation](https://github.com/John-Somanza/D431-Digital-Forensics-Lab-Pt.2.git)
 
  </br>
 
