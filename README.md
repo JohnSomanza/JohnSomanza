@@ -9,6 +9,12 @@
 ### <b>Azure Cloud SOC</b>
   - [Creating an Azure Cloud SOC + Honeynet](https://github.com/JohnSomanza/Cloud-SOC-Honeynet)
 
+<img width="200" alt="Duo Logo" src="https://github.com/user-attachments/assets/bcca3ad5-3bac-493d-bb73-00117e0de0c1"/>
+
+### <b>Duo Multi-Factor Authentication (MFA)</b>
+  - [Implementing Duo MFA on RDP](https://github.com/JohnSomanza/Securing-RDP-With-MFA)
+
+
 <img width="100" alt="Vulnerability Management" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/25ac4b8e-1c46-4b43-9d5a-0b43aaa3986e"/>
 
 ### <b>Vulnerability Management</b>
