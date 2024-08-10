@@ -14,6 +14,10 @@
 ### <b>Duo Multi-Factor Authentication (MFA)</b>
   - [Implementing Duo MFA on RDP](https://github.com/JohnSomanza/Securing-RDP-With-MFA)
 
+<img width="100" alt="VirtualBox" src="https://i.imgur.com/I0JMJZi.png"/>
+
+### <b>Active Directory</b>
+  - [Home Lab Running Active Directory on VirtualBox](https://github.com/JohnSomanza/OpenVAS-Vulnerability-Management)
 
 <img width="100" alt="Vulnerability Management" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/25ac4b8e-1c46-4b43-9d5a-0b43aaa3986e"/>
 
