@@ -22,7 +22,7 @@
 <img width="100" alt="Qualys" src="https://i.imgur.com/xbCNhxJ.png"/>
 
 ### <b>Vulnerability Management</b>
-  - [Vulnerability Management Lifecycle with Azure](https://github.com/JohnSomanza/OpenVAS-Vulnerability-Management)
+  - [Qualys Vulnerability Management On Azure](https://github.com/JohnSomanza/OpenVAS-Vulnerability-Management)
 
 <img width="100" alt="WGU Labs" src="https://cdn.cookielaw.org/logos/f6416a60-3927-4eb2-af84-637e45e52bfe/16f71b10-29aa-48ab-91b1-9d59aece5512/b425ec24-10d8-4aa7-9559-64734c41e640/WGU-MarketingLogo_NATL_RGB_Color_Owl_WGU_NoTag_Stacked_7-2021.png"/>
 
