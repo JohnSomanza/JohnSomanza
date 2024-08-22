@@ -6,7 +6,7 @@
 <h3 align="left">💭 Quote of the Day</h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&border=" alt="Typing SVG" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&border=true" alt="Typing SVG" />
 </div>
 
 </br>
