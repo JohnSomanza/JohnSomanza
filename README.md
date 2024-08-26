@@ -18,20 +18,27 @@
 ### <b>Azure Cloud SOC</b>
   - [Creating an Azure Cloud SOC + Honeynet](https://github.com/JohnSomanza/Cloud-SOC-Honeynet)
 
-<img width="200" alt="Duo Logo" src="https://github.com/user-attachments/assets/bcca3ad5-3bac-493d-bb73-00117e0de0c1"/>
+<img width="100" alt="Duo Logo" src="https://github.com/user-attachments/assets/bcca3ad5-3bac-493d-bb73-00117e0de0c1"/>
 
 ### <b>Duo Multi-Factor Authentication (MFA)</b>
   - [Implementing Duo MFA On RDP](https://github.com/JohnSomanza/Securing-RDP-With-MFA)
 
-<img width="100" alt="VirtualBox" src="https://i.imgur.com/I0JMJZi.png"/>
+<img width="75" alt="VirtualBox" src="https://i.imgur.com/I0JMJZi.png"/>
 
 ### <b>Active Directory</b>
   - [Home Lab Running Active Directory On VirtualBox](https://github.com/JohnSomanza/Active-Directory-On-VirtualBox)
 
-<img width="100" alt="Qualys" src="https://i.imgur.com/xbCNhxJ.png"/>
+<img width="50" alt="Qualys" src="https://i.imgur.com/xbCNhxJ.png"/>
 
 ### <b>Vulnerability Management</b>
   - [Qualys Vulnerability Management On Azure](https://github.com/JohnSomanza/OpenVAS-Vulnerability-Management)
+
+<img width="150" alt="osTicket" src="https://i.imgur.com/SR43djH.png"/>
+
+### <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/alexanderdrodriguez/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/alexanderdrodriguez/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/alexanderdrodriguez/ticket-lifecycle)
 
 <img width="100" alt="WGU Labs" src="https://cdn.cookielaw.org/logos/f6416a60-3927-4eb2-af84-637e45e52bfe/16f71b10-29aa-48ab-91b1-9d59aece5512/b425ec24-10d8-4aa7-9559-64734c41e640/WGU-MarketingLogo_NATL_RGB_Color_Owl_WGU_NoTag_Stacked_7-2021.png"/>
 
