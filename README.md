@@ -36,7 +36,7 @@
 <img width="150" alt="osTicket" src="https://i.imgur.com/SR43djH.png"/>
 
 ### <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/alexanderdrodriguez/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/JohnSomanza/osTicket-Prereqs.git)
   - [osTicket: Post-Installation Configuration](https://github.com/alexanderdrodriguez/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alexanderdrodriguez/ticket-lifecycle)
 
