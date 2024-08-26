@@ -37,7 +37,7 @@
 
 ### <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JohnSomanza/osTicket-Prereqs.git)
-  - [osTicket: Post-Installation Configuration](https://github.com/alexanderdrodriguez/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/JohnSomanza/Post-Install-Config.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alexanderdrodriguez/ticket-lifecycle)
 
 <img width="100" alt="WGU Labs" src="https://cdn.cookielaw.org/logos/f6416a60-3927-4eb2-af84-637e45e52bfe/16f71b10-29aa-48ab-91b1-9d59aece5512/b425ec24-10d8-4aa7-9559-64734c41e640/WGU-MarketingLogo_NATL_RGB_Color_Owl_WGU_NoTag_Stacked_7-2021.png"/>
