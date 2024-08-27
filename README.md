@@ -1,4 +1,10 @@
-<h1>Welcome! My Name is John! <br/><br/>IT & Cybersecurity Professional</h1>
+<h1 align="center">
+Welcome! My Name is John!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=IT+and+Cybersecurity+Professional;Eager%20to%20expand%20my%20knowledge&center=true&width=380&height=45"></a>
 
 ###
 <!-- Quote of the Day -->
@@ -6,7 +12,7 @@
 <h3 align="left">💭 Quote of the Day</h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=If%20you%20want%20something%20but%20aren't%20doing%20what%20you%20know%20is%20required%20to%20achieve%20it%2C%20then%20you%20don't%20want%20it%20bad%20enough." alt="my-personal-project" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=If%20you%20want%20something%20but%20aren't%20doing%20what%20you%20know%20is%20required%20to%20achieve%20it%2C%20then%20you%20just%20don't%20want%20it%20bad%20enough." alt="my-personal-project" />
 </div>
 
 </br>
@@ -76,6 +82,6 @@
 
 <h2> 📲 Connect with me:</h2>
 
-[<img align="left" alt="Felix Aburto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="John Somanza | LinkedIn" width="50px" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/john-somanza-84b3072a6/
