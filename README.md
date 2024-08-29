@@ -12,7 +12,7 @@ Welcome! My Name is John!
 <h3 align="left">💭 Quote of the Day</h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=If%20you%20want%20something%20but%20aren't%20doing%20what%20you%20know%20is%20required%20to%20achieve%20it%2C%20then%20you%20just%20don't%20want%20it%20bad%20enough." alt="my-personal-project" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=If%20you%20want%20something%20but%20aren't%20doing%20what%20you%20know%20is%20required%20to%20achieve%20it%2C%20then%20you%20simply%20don't%20want%20it%20bad%20enough." alt="my-personal-project" />
 </div>
 
 </br>
